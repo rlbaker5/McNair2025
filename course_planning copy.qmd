@@ -34,38 +34,33 @@ All of the course materials will be available via GitHub at
 
 10-15 min: Examples:
 
-ideas in humanities context?
+Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes
 
 BREAK (10 min?)
 
-Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes cover ideas of correlation vs. causation 10 minutes: -follow-along code example (ice creams and shark attacks) 10 minutes: plot the results.
+Example problem (work this together): write a quick "hello world" function.
 
-```         
-Challenge work:
-Additional example: (chocolate and nobel prizes?)
-Given them data and let them try to generate the correlation analysis and plot on their own
-```
+Challenge Problem:
+
+Write a function that will multiply any number by 10.
 
 ## Lecture 2: June 17th
 
-```         
-(Rob at Botany; Clay will lead)
-10 minutes: Why do we use langauges? What is the right tool? When are computers helpful (when are they not)?
-10 minutes: Why R (FREE! packages, functions, community of developers and helpers)
+10 minutes: When is programming useful?
+
+2 minutes: Why R (FREE! packages, functions, community of developers and helpers)
+
 25-30 minutes: R mechanics
-  * data import (xlsx vs csv): differnces, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
-  * save data, export plots
-  * dpi, file sizes, etc
-  * how to install & load packages
-  * how to find and access documention
-  * assigning variables & using functions
-  
-25-30 min Hands on examples: data visualization for challener o-ring failure
+
+-   understand what a variable is
+
+-   understand what a function is
+
+\* data import (xlsx vs csv): differences, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
 
 BREAK
 
 challenge examples?
-```
 
 ## Lecture 3: June 25
 
