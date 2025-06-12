@@ -10,7 +10,7 @@ Ideally, these will be re-worked in a much more systematic fashion to generate a
 
 ## Course Overview:
 
-Six two-hour sessions on Tuesday afternoons staring on June 11th with now class on the week of the 4th of July (last day is July 23). All classes are in person (not hybrid). Office hours can be hybrid, in person, or on an as-needed basis. There is no expectation for out of class work or preparation.
+Six two-hour sessions on Tuesday-Thursday afternoons in the second half of June (June 17, 18, 19 and June 24, 25, 26) from 3-5pm. All classes are in person (not hybrid). Office hours can be hybrid, in person, or on an as-needed basis. There is no expectation for out of class work or preparation.
 
 The goals of the course are to give students an overview of the programming for repeatable, transparent, and robust analyses. The course will focus on R to teach best practices in managing data, data import and export, data cleaning, summary statistics and exploratory data analysis as well as basic how to run and interpret simple statistical analyses and generate figures for reports or publications.
 
@@ -18,21 +18,21 @@ Each session will have three basic components: some instructional time dedicated
 
 (obviously not all of this is planned out quite yet, especially the examples)
 
-All of the course materials will be available via GitHub at [github.com/rlbaker5/McNair2024_Rcourse](www.github.com/rlbaker5/McNair2024_Rcourse).
+All of the course materials will be available via GitHub at
 
-## Lecture 1: June 11th
+## Lecture 1: June 16th
 
-(Rob takes lead on Prep as Clay has interview prep to do)
-
-10 min: Intro to Rob and Clay (10 minutes max)
+10 min: Intro to Rob and Sarah (10 minutes max)
 
 15 min: Student introductions: Name, field, project?
 
 15 min: Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc)
 
-20 min: What is CS? What is a programming language? Why use it? (Clay)
+20 min: what is computer science? how do we learn about computers and computer languages? What is the learning process of how to program. Things break and don't work. OK. Very easy to make mistakes, very hard to make irrecoverable mistakes.
 
-15-20 min (Rob) \* reproducibility, transparency, sharing/collaborating, publishing 10-15 min: Examples:
+15-20 min (Rob): Why we use computers: reproducibility, transparency, sharing/collaborating, and computational power (maaaaathhhh speed) publishing
+
+10-15 min: Examples:
 
 ideas in humanities context?
 
@@ -46,7 +46,7 @@ Additional example: (chocolate and nobel prizes?)
 Given them data and let them try to generate the correlation analysis and plot on their own
 ```
 
-## Lecture 2: June 18th
+## Lecture 2: June 17th
 
 ```         
 (Rob at Botany; Clay will lead)
