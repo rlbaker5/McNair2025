@@ -12,13 +12,11 @@ Ideally, these will be re-worked in a much more systematic fashion to generate a
 
 Six two-hour sessions on Tuesday-Thursday afternoons in the second half of June (June 17, 18, 19 and June 24, 25, 26) from 3-5pm. All classes are in person (not hybrid). Office hours can be hybrid, in person, or on an as-needed basis. There is no expectation for out of class work or preparation.
 
-The goals of the course are to give students an overview of the programming for repeatable, transparent, and robust analyses. The course will focus on R to teach best practices in managing data, data import and export, data cleaning, summary statistics and exploratory data analysis as well as basic how to run and interpret simple statistical analyses and generate figures for reports or publications.
+The goals of the course are to give students an understanding of the fundamentals of programming and statistics. Emphasis is on repeatable, transparent, and robust analyses. The course will focus on R to teach best practices in managing data, data import and export, data cleaning, summary statistics and exploratory data analysis as well as basic how to run and interpret simple statistical analyses and generate figures for reports or publications.
 
 Each session will have three basic components: some instructional time dedicated to lecture/discussion, some instructional time dedicated to canned coding examples/demos where students follow along and some time dedicated to "challenge" questions where students work on their own (or in groups) to apply the lessons learned to new situations/data.
 
-(obviously not all of this is planned out quite yet, especially the examples)
-
-All of the course materials will be available via GitHub at
+All of the course materials will be available via GitHub at www.github.com/rlbaker5/McNair2025
 
 ## Lecture 1: June 16th
 
