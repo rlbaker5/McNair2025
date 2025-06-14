@@ -42,7 +42,7 @@ Write a function that will multiply any number by 10.
 
 ## Lecture 2: June 17th
 
-10 minutes: **(Rob)** When is programming useful? Why R (FREE! packages, functions, community of developers and helpers)
+10 minutes: **(Rob)** When is programming useful? Why R (FREE! packages, functions, community of developers and helpers). Rstudio (R vs IDE)
 
 25-30 minutes: **(Sarah)** R mechanics
 
@@ -50,9 +50,11 @@ Write a function that will multiply any number by 10.
 
 -   understand what a function is (inputs and outputs)
 
+    -   how to access documentation
+
 Break (10 min)
 
-15 min: **(Rob)** data import (xlsx vs csv): differences, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
+15 min: **(Rob)** packages and data import (xlsx vs csv): differences, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
 
 15 min: (Rob) get data and import it (from packages; from files)
 
@@ -60,26 +62,24 @@ Challenge: do it again, but on your own?
 
 ## Lecture 3: June 18
 
-Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save a file:
+Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save/export a file:
 
 also why we don't data munge in excel!
 
 ## July 02 - NO CLASS
 
-## Lecture 4: July 09
+## Lecture 4: June 24
 
 Text manipulation (stingr, grep, etc) control structures: for, if (ifelse? while?)
 
-## Lecture 5: July 16
+examples? challenge problems?
 
-```         
-Statistics in brief:
-Normal distributions; p-values, 95% probability, etc
-(cover at a very high level - not too many details)
-distribution shapes and simple transformations
-(histograms? QQplots?)
-```
+## Lecture 5: June 25
 
-## Lecture 6: July 23
+Statistics in brief: Normal distributions; p-values, 95% probability, etc (cover at a very high level - not too many details) distribution shapes and simple transformations (histograms? QQplots?)
+
+## Lecture 6: June 26
+
+maybe this needs more detail.
 
 Project: 1 is demo-like and 1 is on-your-own
