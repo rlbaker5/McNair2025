@@ -24,19 +24,17 @@ All of the course materials will be available via GitHub at www.github.com/rlbak
 
 15 min: Student introductions: Name, field, project?
 
-15 min: Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc)
+10 min: (**Rob):** Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc)
 
-20 min: what is computer science? how do we learn about computers and computer languages? What is the learning process of how to program. Things break and don't work. OK. Very easy to make mistakes, very hard to make irrecoverable mistakes.
+10 min: (**Sarah):** what is computer science? how do we learn about computers and computer languages? What is the learning process of how to program. Things break and don't work. OK. Very easy to make mistakes, very hard to make irrecoverable mistakes.
 
-15-20 min (Rob): Why we use computers: reproducibility, transparency, sharing/collaborating, and computational power (maaaaathhhh speed) publishing
-
-10-15 min: Examples:
-
-Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes
+10 min (**Rob)**: Why we use computers: reproducibility, transparency, sharing/collaborating, and computational power (maaaaathhhh speed) publishing (how does this differ from Sarah's bit above?)
 
 BREAK (10 min?)
 
-Example problem (work this together): write a quick "hello world" function.
+15 min (**Rob**): An example what what you should be able to to at the end of the course,
+
+10 min: (**Sarah**) Variable vs. Function: Example problem (work this together): write a quick "hello world" function.
 
 Challenge Problem:
 
@@ -44,23 +42,23 @@ Write a function that will multiply any number by 10.
 
 ## Lecture 2: June 17th
 
-10 minutes: When is programming useful?
+10 minutes: **(Rob)** When is programming useful? Why R (FREE! packages, functions, community of developers and helpers)
 
-2 minutes: Why R (FREE! packages, functions, community of developers and helpers)
+25-30 minutes: **(Sarah)** R mechanics
 
-25-30 minutes: R mechanics
+-   understand what a variable is (and how to assign a variable)
 
--   understand what a variable is
+-   understand what a function is (inputs and outputs)
 
--   understand what a function is
+Break (10 min)
 
-\* data import (xlsx vs csv): differences, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
+15 min: **(Rob)** data import (xlsx vs csv): differences, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
 
-BREAK
+15 min: (Rob) get data and import it (from packages; from files)
 
-challenge examples?
+Challenge: do it again, but on your own?
 
-## Lecture 3: June 25
+## Lecture 3: June 18
 
 Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save a file:
 
