@@ -51,6 +51,8 @@ However, many packages are incredibly well maintained and some are considered pr
 
 If you're feeling more comfortable in R and want to learn more, these resources will help you expand your skillset (and your resume):
 
+ *  Regular expressions: <https://r4ds.hadley.nz/regexps.html>
+    + Learn how to detect patterns in text. Great for tidying column names and analyzing text data.
  *  Happy Git with R: <https://happygitwithr.com/>
     + Using Git/GitHub for version control helps you track changes to your code project over time. It's also great for sharing code and collaborating with other people.
  *  R Packages: <https://r-pkgs.org/>
